@@ -19,3 +19,5 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
+hi 'hello
+hi hi
