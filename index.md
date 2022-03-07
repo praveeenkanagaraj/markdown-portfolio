@@ -12,6 +12,7 @@ layout: default
 
 {% include 03-links.md %}
 
+add-lists-emphasis
 <br>
 
 {% include 04-lists.md %}
@@ -22,3 +23,6 @@ layout: default
 hi 'hello
 hi hi
 **jdsfkdbdhkb** _jsvbkusd_
+=======
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+ main
